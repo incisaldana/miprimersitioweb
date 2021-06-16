@@ -1,0 +1,30 @@
+/* CSS Document */
+
+.colorlorem1 {
+text-align: center;
+ font-family:"Warung Kopi";
+ font-size:30px;
+ color:#804040;
+ }
+
+.colorlorem2 {
+text-align:justify;
+ font-family:"Courier New", Courier, monospace;
+ font-size:25px;
+ color:#000033;
+  background: #FFFFCC;
+ }
+ 
+ .colorlista {
+text-align:left;
+ font-family: 'Courgette', cursive;
+ font-size:20px;
+ color:#333300;
+ }
+ 
+ .descripcion {
+text-align:justify;
+font-family: 'Indie Flower', cursive;
+ font-size:30px;
+ color:#333300;
+ }
